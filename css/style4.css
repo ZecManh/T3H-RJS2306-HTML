@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+header{
+    float: left;
+    width: 100%;
+    background-color: #F8BC3A;
+    padding: 10px 0px;
+}
+.container{
+    width: 1400px;
+    margin: 0 auto;
+}
+.nav-left{
+    float: left;
+}
+.nav-right{
+   display: flex;
+    float: right;
+}
+.nav-right li{
+    margin: 0 20px;
+    list-style-type: none;
+}
+.nav-right li a{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+}
+.btn .btn-signup{
+    text-decoration: none;
+    color: white;
+    padding: 5px 20px;
+    background-color: black;
+   border-radius: 5px;
+}
+.section-background{
+    float: left;
+    width: 100%;
+    background-color: #F8BC3A;
+}
+.bg{
+    /* display: flex;
+    justify-content: space-around; */
+}
+.bg h3{
+    font-size: 100px;
+    color: #FFFEFF;
+    float: left;
+    text-transform: uppercase;
+    padding-top:100px;
+}
+.bg img{
+    float: right;
+    padding: 50px 0px;
+}
+.section-body{
+    float: left;
+    width: 100%;
+}
+.list-icon{
+   padding: 50px;
+    display: flex;
+    text-align: center;
+}
+.list-1 i{
+  font-size: 25px;
+}
+.list-1 h3{
+    margin: 10px 0px;
+}
+.list-1 p{
+    width: 60%;
+    margin: 0 auto;
+}
+footer{
+    float: left;
+    width: 100%;
+    background-color: green;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 100px;
+}
+.footer-end h1{
+    color: white;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.footer-end p{
+    width: 40%;
+    margin: 10px auto;
+    color: white;
+}
+.list-footer{
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-top: 100px;
+   list-style-type: none;
+}
+.list-footer li{
+    margin: 0 20px;
+    padding:10px 0px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 13px;
+}
