@@ -1,0 +1,37 @@
+.down{
+    color: white;
+}
+nav{
+    background-color: #1D2A35;
+}
+.nav-item{
+    margin: 0 10px;
+}
+.nav-item a{
+    color: white;
+}
+.navbar-nav li:hover a{
+    color: white;
+    background-color: blue;
+}
+h2{
+    padding-top: 20px;
+    font-size: 21px;
+    color: white;
+}
+aside{
+    background-color: #15202B;
+}
+.col a{
+    color: white;
+    text-decoration: none;
+}
+.section-sidebar-right{
+    background-color: azure;
+}
+.section-main{
+   background-color:  #1D2A35;
+}
+.section-subnav{
+    background-color:black;
+}
